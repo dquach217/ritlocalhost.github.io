@@ -20,16 +20,27 @@ body {
     max-width: 800px;
     line-height: 1.7em
 }
-
 .underline {
     border-bottom: 2px solid #1bbc9b
 }
+.topJumbo{
+  padding-top:30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  overflow:auto;
+}
+#logo{
 
+}
 #newTalksDiv {
     margin: 0 auto;
     text-align: center
 }
-
+.ePhoto{
+  width:100%;
+}
 .requestTalk {
     margin: 2.5em auto .8em;
     padding: 0 2em;
