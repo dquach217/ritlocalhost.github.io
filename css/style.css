@@ -2,8 +2,8 @@ body {
     background: #fff;
     margin: 0;
     padding: 0;
-    font-family: "Source Sans Pro", sans-serif;
     color: #2f4956;
+
 }
 
 #logoImg {
@@ -140,4 +140,8 @@ body {
 }
 #bogaard{
     margin-top: 16px;
+}
+.name{
+    border-bottom: 2px solid #1bbc9b;
+    font-size: 24px;
 }
